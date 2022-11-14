@@ -1,5 +1,5 @@
 import { Text, View,Image } from "react-native";
-import pfp from "../assets/pfp.png"
+import pfp from "../assets/cat.jpg"
 const Profile = () => {
 return (
 	<View style={{ flex: 1, alignItems: "center", justifyContent: "center" }}>
